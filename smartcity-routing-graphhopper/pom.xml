@@ -15,6 +15,6 @@
             <groupId>org.gofleet</groupId>
             <artifactId>gofleet-base</artifactId>
             <version>${gofleet.version}</version>
-        </dependency>     
+        </dependency>   
     </dependencies>
 </project>
