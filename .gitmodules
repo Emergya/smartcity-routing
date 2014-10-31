@@ -1,0 +1,4 @@
+[submodule "GoFleetLSServer"]
+	path = GoFleetLSServer
+	url = git@github.com:Emergya/GoFleetLSServer.git
+	branch = openls1.3
